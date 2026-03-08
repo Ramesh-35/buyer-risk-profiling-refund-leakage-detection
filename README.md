@@ -39,15 +39,15 @@ Buyers are classified into four tiers:
 - Severe
 
 ##Key Insight
-The analysis reveals a strog concentration pattern where a very small percentage of buyers contribute a disproportionate large share of refund exposure.
+- The analysis reveals a strog concentration pattern where a very small percentage of buyers contribute a disproportionate large share of refund exposure.
 This suggests that targeted operational controls can significantly reduce refund-related operational costs without imacting the majority of customers. 
 
 ##Dashboard 
-The Power BI dashboard provides: 
-Executive refund performance overview 
-Buyer risk segmentation
-Refund leakage concentration analysis
-Policy simulation for targeted operational interventions. 
+- The Power BI dashboard provides: 
+ - Executive refund performance overview 
+ - Buyer risk segmentation
+ - Refund leakage concentration analysis
+ - Policy simulation for targeted operational interventions. 
 
 ##Strategic Recommendations
 Operational Controls
