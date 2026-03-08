@@ -75,21 +75,8 @@ Experience Improvements
 
 The project follows a structured analytics pipeline:
 
-Raw Transaction Data
-        ↓
-Data Cleaning & Validation
-        ↓
-Buyer Aggregation
-        ↓
-Refund Behavior Analysis
-        ↓
-Risk Scoring Model
-        ↓
-Risk Tier Classification
-        ↓
-Refund Leakage Concentration Analysis
-        ↓
-Operational Policy Simulation
+Raw Transaction Data -> Data Cleaning & Validation -> Buyer Aggregation -> Refund Behavior Analysis -> Risk Scoring -> Risk Tier Classification -> Refund Leakage Concentration Analysis -> Operational Policy Simulation
+        
 
 
 
