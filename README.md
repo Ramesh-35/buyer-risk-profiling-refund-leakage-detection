@@ -71,6 +71,26 @@ Experience Improvements
 - Provide better sizing guidance
 - Enhance product imagery and specifications
 
+## Analytics Workflow
+
+The project follows a structured analytics pipeline:
+
+Raw Transaction Data
+        ↓
+Data Cleaning & Validation
+        ↓
+Buyer Aggregation
+        ↓
+Refund Behavior Analysis
+        ↓
+Risk Scoring Model
+        ↓
+Risk Tier Classification
+        ↓
+Refund Leakage Concentration Analysis
+        ↓
+Operational Policy Simulation
+
 
 
 
