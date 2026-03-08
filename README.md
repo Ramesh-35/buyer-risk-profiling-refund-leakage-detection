@@ -20,23 +20,23 @@ Power BI
 
 ##Analytical Framework
 -Data Cleaning and Validation
- Transaction Aggregation
- Buyer Behavioral Analysis
- Risk Scoring Model
- Leakage Concentration Analysis
- Policy Simulatio 
+ - Transaction Aggregation
+ - Buyer Behavioral Analysis
+ - Risk Scoring Model
+ - Leakage Concentration Analysis
+ - Policy Simulatio 
 
 ##Risk Scoring Logic 
-Refund Frequency
-Refund Value Ratio
-Refund Volume Exposure
-Customer Behavioral Lifespan
+- Refund Frequency
+- Refund Value Ratio
+- Refund Volume Exposure
+- Customer Behavioral Lifespan
 
 Buyers are classified into four tiers: 
-Low
-Medium
-High
-Severe
+- Low
+- Medium
+- High
+- Severe
 
 ##Key Insight
 The analysis reveals a strog concentration pattern where a very small percentage of buyers contribute a disproportionate large share of refund exposure.
