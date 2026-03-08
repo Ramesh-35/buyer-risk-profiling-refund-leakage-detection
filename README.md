@@ -49,6 +49,18 @@ This suggests that targeted operational controls can significantly reduce refund
  - Refund leakage concentration analysis
  - Policy simulation for targeted operational interventions. 
 
+ ### Executive Overview
+![Executive Overview](executive_overview.png)
+
+### Buyer Risk Segmentation
+![Buyer Risk Segmentation](buyer_risk_segmentation.png)
+
+### Leakage Concentration
+![Leakage Concentration](leakage_concentration.png)
+
+### Policy Simulation
+![Policy Simulation](policy_simulation.png)
+
 ##Strategic Recommendations
 Operational Controls
 - Monitor High-risk buyers
