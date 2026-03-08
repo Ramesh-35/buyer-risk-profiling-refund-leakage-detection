@@ -39,7 +39,7 @@ Buyers are classified into four tiers:
 - Severe
 
 ##Key Insight
-- The analysis reveals a strog concentration pattern where a very small percentage of buyers contribute a disproportionate large share of refund exposure.
+- The analysis reveals a strog concentration pattern where a very small percentage of buyers (1%) contribute a ~38% of refund exposure 
 This suggests that targeted operational controls can significantly reduce refund-related operational costs without imacting the majority of customers. 
 
 ##Dashboard 
