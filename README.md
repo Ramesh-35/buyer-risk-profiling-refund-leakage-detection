@@ -1,13 +1,13 @@
 # Buyer Risk Profiling & Refund Leakage Detection
 
 ##Project Overview
-This project develops an operational analytics framework to identify high-risk buyer behavior and quantify refund leakage in e-commerce environments.
+- This project develops an operational analytics framework to identify high-risk buyer behavior and quantify refund leakage in e-commerce environments.
 Using transaction-level retail data, the analysis detects refund concentration patterns, classifies buyers into risk tiers, and simulates targeted governance strategies to reduce operational losses.
 
 ##Business Problem
-E-commerce platforms experience margin erosion due to high return rates and refund abuse patterns.
-While flexible return policies improve customer trust, they also create opportunities for behavioral exploitation and operational inefficiencies.
-The objective of this project is to identify concentrated refund risk patterns and support operational decision-making through data-driven insights.
+- E-commerce platforms experience margin erosion due to high return rates and refund abuse patterns.
+- While flexible return policies improve customer trust, they also create opportunities for behavioral exploitation and operational inefficiencies.
+- The objective of this project is to identify concentrated refund risk patterns and support operational decision-making through data-driven insights.
 
 ##Dataset
 Dataset: Online Retail II  
